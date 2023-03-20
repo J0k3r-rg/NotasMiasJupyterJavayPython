@@ -1,0 +1,1 @@
+Scanner leer = new Scanner(System.in).useDelimiter("\n");
